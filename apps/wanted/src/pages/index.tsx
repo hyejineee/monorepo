@@ -20,7 +20,7 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             의존성 테스트{sayHello()} <br />
-            <Button>hello</Button>
+            <Button variant="contained">hello</Button>
             Get started by editing&nbsp;
             <code className={styles.code}>src/pages/index.tsx</code>
           </p>
